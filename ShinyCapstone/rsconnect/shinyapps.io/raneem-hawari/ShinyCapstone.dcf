@@ -1,0 +1,12 @@
+name: ShinyCapstone
+title: ShinyCapstone
+username:
+account: raneem-hawari
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2411743
+bundleId: 3230736
+url: https://raneem-hawari.shinyapps.io/ShinyCapstone/
+when: 1591326529.09089
+asMultiple: FALSE
+asStatic: FALSE
